@@ -1,0 +1,16 @@
+{
+	"META": {
+		"repoName": "M_2 Development",
+		"repoIcon": "https://github.com/M2Development/IPA-s/blob/main/image_2023-07-22_143019377.png?raw=true"
+	},
+  "Games": [
+    {
+      "name": "Roblox Exploit",
+		"version": "2.582.400",
+		"down": "https://github.com/M2Development/IPA-s/releases/download/Pre-Release/Modified.ipa",
+		"category": "Games",
+		"description": "Modified Roblox to include a LuaU executor. To use the exploit open a game on Roblox. Join our discord server for support: https://discord.com/invite/3zApSzqcHs - By M_2 Development Team",
+		"bundleID": "com.roblox.robloxmobile",
+		"appstore": "com.roblox.robloxmobile"
+	}]
+}
