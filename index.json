@@ -8,9 +8,20 @@
 		"version": "3.0.0",
 		"down": "https://github.com/M2Development/IPA-s/releases/download/v3.0.0/Spotify.ipa",
 		"category": "Development",
-		"description": "Spotify. What else? - M_2 Development",
+		"description": "Spotify. What else? You expect Niggerify? - M_2 Development",
 		"bundleID": "com.spotify.client",
 		"appstore": "com.spotify.client",
-		"changelog": "- Updated Spotify to v3.0.0"
-	}]
+		"changelog": "- Updated Spotify to v3.0.0. - Random crashes fixed (broken file)"
+	},
+	{
+		"name": "YouTube",
+		"version": "19.19.7",
+		"down": "https://github.com/M2Development/IPA-s/releases/download/v3.0.0/YouTube.ipa",
+		"category": "Development",
+		"description": "YouTube. Or NiggerTube? who knows? - M_2 Development",
+		"bundleID": "com.spotify.client",
+		"appstore": "com.spotify.client",
+		"changelog": "- Updated YouTube to v19.19.7"
+	}
+	]
 }
