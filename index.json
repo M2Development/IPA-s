@@ -19,8 +19,8 @@
 		"down": "https://github.com/M2Development/IPA-s/releases/download/v3.0.0/YouTube.ipa",
 		"category": "Development",
 		"description": "YouTube. Or NiggerTube? who knows? - M_2 Development",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
 		"changelog": "- Updated YouTube to v19.19.7"
 	}
 	]
